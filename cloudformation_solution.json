@@ -340,13 +340,7 @@
           }
         ],
         "Tags": [
-          {"Key": "Name","Value": "Jenkins-Role-production"},
-          { "Key": "Environment", "Value": { "Ref": "Environment" } },
-          { "Key": "Service", "Value": "Jenkins" },
-          { "Key": "Department", "Value": "DevOps" },
-          { "Key": "Owner", "Value": "DevOps" },
-          { "Key": "Application", "Value": "Jenkins" },
-          { "Key": "Role", "Value": "CI/CD" }
+          {"Key": "Name","Value": "Jenkins-Role"}
         ]
       }
     },
