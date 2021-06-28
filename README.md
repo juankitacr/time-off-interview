@@ -1,2 +1,2 @@
 
-# Solution Diagram
+# Solution diagram and explanation
